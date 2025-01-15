@@ -20,6 +20,6 @@ This repository contains all the problem sets I completed during the course. Eac
 
 ## File Structure
 
-Each problem set is organized in its respective folder by week, with a clear naming convention for easy navigation. Here is an example structure:
+Each problem set is organized in its respective folder by week, with a clear naming convention for easy navigation.
 
 
